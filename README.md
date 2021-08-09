@@ -1,2 +1,3 @@
 # CitiBike_Analysis
-CitiBike Analysis using Tableau
+
+Analysis and visualization of 2020 Citibike data using Tableau.
